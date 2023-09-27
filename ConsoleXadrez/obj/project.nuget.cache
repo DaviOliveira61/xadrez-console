@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "64aUqwEbKS7XEfCkyQfaWeheSad+QpwWRCo9gjSzbdVXrNEcGGVjMWYxASsJ9tFjqxCFIfubKPFXgh5ZYmmj3A==",
+  "dgSpecHash": "udHRNSQz5lAK+X/ez4jLfAD/W1IhZtbgnr8w1b16Z8ld4AHKkumhxd+qOAG07dTJkk++4gPzRNINf882RnfvZg==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/davig/OneDrive/Documentos/DEV/csharp/Projects/ChessGame/ConsoleXadrez/ConsoleXadrez.csproj",
+  "projectFilePath": "C:\\Users\\davig\\OneDrive\\Documentos\\DEV\\csharp\\Projects\\ChessGame\\ConsoleXadrez\\ConsoleXadrez.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

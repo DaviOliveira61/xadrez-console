@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/davig/OneDrive/Documentos/DEV/csharp/Projects/ChessGame/ConsoleXadrez/ConsoleXadrez.csproj": {}
+    "C:\\Users\\davig\\OneDrive\\Documentos\\DEV\\csharp\\Projects\\ChessGame\\ConsoleXadrez\\ConsoleXadrez.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/davig/OneDrive/Documentos/DEV/csharp/Projects/ChessGame/ConsoleXadrez/ConsoleXadrez.csproj": {
+    "C:\\Users\\davig\\OneDrive\\Documentos\\DEV\\csharp\\Projects\\ChessGame\\ConsoleXadrez\\ConsoleXadrez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/davig/OneDrive/Documentos/DEV/csharp/Projects/ChessGame/ConsoleXadrez/ConsoleXadrez.csproj",
+        "projectUniqueName": "C:\\Users\\davig\\OneDrive\\Documentos\\DEV\\csharp\\Projects\\ChessGame\\ConsoleXadrez\\ConsoleXadrez.csproj",
         "projectName": "ConsoleXadrez",
-        "projectPath": "/mnt/c/Users/davig/OneDrive/Documentos/DEV/csharp/Projects/ChessGame/ConsoleXadrez/ConsoleXadrez.csproj",
-        "packagesPath": "/home/davioliveira/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/davig/OneDrive/Documentos/DEV/csharp/Projects/ChessGame/ConsoleXadrez/obj/",
+        "projectPath": "C:\\Users\\davig\\OneDrive\\Documentos\\DEV\\csharp\\Projects\\ChessGame\\ConsoleXadrez\\ConsoleXadrez.csproj",
+        "packagesPath": "C:\\Users\\davig\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davig\\OneDrive\\Documentos\\DEV\\csharp\\Projects\\ChessGame\\ConsoleXadrez\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/davioliveira/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\davig\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/davioliveira/.asdf/installs/dotnet/7.0.401/sdk/7.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }
